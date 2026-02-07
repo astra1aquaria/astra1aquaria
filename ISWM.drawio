@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
   <diagram name="Page-1" id="SD9wMwy15HEeluQ6mst9">
-    <mxGraphModel dx="1181" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,17 +178,12 @@
         <mxCell id="rSQUNBJX4ENh_2QMai6t-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;The... the wormhole calls you? and tommy guns you into the Narration Universe, where you meet wug..?? ...timeline accelleration.&lt;/div&gt;&lt;div&gt;(wfdMicitgnA)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="240" x="400" y="821" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-58" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="1400" />
-              <mxPoint x="420" y="1400" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-97" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-59" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" value="Step In the Wormhole" vertex="1">
-          <mxGeometry relative="1" x="-0.0222" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-98" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step in the Wormhole" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
+            <mxPoint x="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;The Captain Self Destructs, into the ... void. With Space Gramma. ???&lt;/div&gt;&lt;div&gt;(FuQt2BhgCQo)&lt;/div&gt;" vertex="1">
@@ -220,8 +215,8 @@
         <mxCell id="rSQUNBJX4ENh_2QMai6t-55" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="&lt;div&gt;Ending:&lt;br&gt;The Funny Choices&lt;/div&gt;&lt;div&gt;(eoOePnBbGWY)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="180" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-57" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="&lt;div&gt;Ending:&lt;br&gt;Grandpa Mark &amp;amp; W. Lady&lt;/div&gt;&lt;div&gt;(eoOePnBbGWY/&lt;br&gt;6cARNW6O4sY)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="340" y="1420" as="geometry" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-57" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="&lt;div&gt;Ending:&lt;br&gt;Thru the Wormhole&lt;/div&gt;&lt;div&gt;(7iJoWgYwL7g)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="350" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-64" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-63">
           <mxGeometry relative="1" as="geometry" />
@@ -245,16 +240,24 @@
         <mxCell id="rSQUNBJX4ENh_2QMai6t-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gunther Tries to Coup You&lt;br&gt;(iMz8rZD_9hg)" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-70" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-69">
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-70" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-71" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Burt! Think of the Colonists!" vertex="1">
           <mxGeometry relative="1" x="-0.0357" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-89" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-91" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Blow IT up before IT blows YOU up!" vertex="1">
+          <mxGeometry relative="1" x="0.0111" as="geometry">
+            <mxPoint x="34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Burtputer tries to make a black hole&lt;br&gt;(szDl_uKbOJg)" vertex="1">
-          <mxGeometry height="60" width="120" x="540" y="1120" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-73" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-75">
           <mxGeometry relative="1" as="geometry">
@@ -282,18 +285,67 @@
         <mxCell id="rSQUNBJX4ENh_2QMai6t-75" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Ending:&lt;br&gt;Cryo Forever&lt;br&gt;(-Yn4Z-mPKMM)" vertex="1">
           <mxGeometry height="60" width="120" x="620" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-80" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-57">
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-85" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="519.8095238095239" y="1420" as="targetPoint" />
+            <mxPoint x="600" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-82" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="I&#39;m Ready" vertex="1">
-          <mxGeometry relative="1" x="-0.1114" y="-1" as="geometry">
-            <mxPoint x="-13" as="offset" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-86" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hold on a second..." vertex="1">
+          <mxGeometry relative="1" x="-0.0514" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-104" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-105" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="I&#39;m Ready" vertex="1">
+          <mxGeometry relative="1" x="-0.0481" as="geometry">
+            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Throw yourself out of the airlock, go to the Warp Core... wait.&amp;nbsp;&lt;/div&gt;&lt;div&gt;(MJM6QneZbVA)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-87" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Ending:&lt;br&gt;WARFSTACHE!&lt;br&gt;(g_ILOR7_mHw)" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-94" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-95" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;We&#39;ve Never Been Here&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1222" y="-4" as="geometry">
+            <mxPoint x="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theif has Existential Crisis&lt;br&gt;(VpyFw2-Cec4)" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-92" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Ending:&lt;br&gt;&lt;div&gt;She&#39;s Erased&lt;/div&gt;&lt;div&gt;(PteUZUCJ7iY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-93" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-100" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="1410" as="sourcePoint" />
+            <mxPoint x="690" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-101" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="1390" as="sourcePoint" />
+            <mxPoint x="690" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-102" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-75" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="1400" as="sourcePoint" />
+            <mxPoint x="750" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-103" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="Ending:&lt;br&gt;Full Bore!&lt;br&gt;(6cARNW6O4sY)" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="1420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
