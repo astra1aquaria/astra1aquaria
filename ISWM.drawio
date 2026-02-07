@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
   <diagram name="Page-1" id="SD9wMwy15HEeluQ6mst9">
-    <mxGraphModel dx="2066" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rSQUNBJX4ENh_2QMai6t-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="In Space With Markiplier: Part One" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="20" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-8" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rSQUNBJX4ENh_2QMai6t-7" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -16,12 +16,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Die of Lack of Oxygen, Restart, Weird Hallucination, Throw Mark at the problems&lt;/div&gt;(raIqPgW-quI)" vertex="1">
-          <mxGeometry height="60" width="160" x="340" y="140" as="geometry" />
+          <mxGeometry height="60" width="160" x="340" y="120" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-4" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="420" y="410" as="sourcePoint" />
-            <mxPoint x="470" y="360" as="targetPoint" />
+            <mxPoint x="420" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-18" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Put Out the Fire" vertex="1">
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Throw yourself out of the airlock, throw Mark at ADS&lt;/div&gt;&lt;div&gt;(Rm7nK2x_FWQ)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="220" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-13" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rSQUNBJX4ENh_2QMai6t-12" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Throw yourself out of the airlock, throw Mark at Cryo&lt;/div&gt;&lt;div&gt;(uIMvjur42Vw)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="320" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-15" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rSQUNBJX4ENh_2QMai6t-14" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -60,18 +60,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;You... Make it? Throw Mark in a pit. Surveillance State&lt;/div&gt;&lt;div&gt;(Y0Ja_BrgGhA)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="440" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-17" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rSQUNBJX4ENh_2QMai6t-16" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-17" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="rSQUNBJX4ENh_2QMai6t-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="580" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-23" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Jump In Again!" vertex="1">
           <mxGeometry relative="1" x="0.05" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Crew&#39;s weird... But everything&#39;s fine! &#39;Cept the core. Weird Lady shoves you into the wormhole and you get a crystal in your hand. RESET! mark &#39;members...&lt;/div&gt;&lt;div&gt;(HcfjRwNr89Q)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="320" x="260" y="540" as="geometry" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-41" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-42" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Call an Emergency Meeting&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4634" y="1" as="geometry">
+            <mxPoint x="-1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Crew&#39;s weird... But everything&#39;s fine! &#39;Cept the core. Weird Lady(tm) shoves you into the wormhole and you get a crystal in your hand. RESET! mark &#39;members...&lt;/div&gt;&lt;div&gt;(HcfjRwNr89Q)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="260" y="520" as="geometry" />
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-29" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rSQUNBJX4ENh_2QMai6t-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -81,11 +91,119 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSQUNBJX4ENh_2QMai6t-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Mark gets sucked&amp;nbsp; into a black hole. RESET!&lt;/div&gt;&lt;div&gt;(wKNzPHIk0EY)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="640" as="geometry" />
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-39" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Mark gets sucked&lt;br&gt;into a black hole. RESET!&lt;/div&gt;&lt;div&gt;(wKNzPHIk0EY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-33" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-38" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="751" />
+              <mxPoint x="270" y="651" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rSQUNBJX4ENh_2QMai6t-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Desert &#39;splosion. RESET!&lt;/div&gt;&lt;div&gt;(bjxEL2A9F4Q)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="740" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="721" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-31" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Jump In Again!" vertex="1">
+          <mxGeometry x="199" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-34" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="851" />
+              <mxPoint x="100" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-35" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Jump In Again!&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.15" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-37" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="851" />
+              <mxPoint x="280" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-40" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Call an&lt;br&gt;&lt;div&gt;Emergency&lt;/div&gt;&lt;div&gt;Meeting&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6533" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Vulcafar.&lt;br&gt;RESET!&lt;/div&gt;&lt;div&gt;(Qbr2cyEgWS4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-44" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.1428571428571" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-45" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pop &#39;er in Reverse!" vertex="1">
+          <mxGeometry relative="1" x="-0.0403" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;I mean. You call an emergency meeting.&lt;/div&gt;&lt;div&gt;(uoyvZ5mXiio)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-47" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-48" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fire All Weapons at the Wormhole" vertex="1">
+          <mxGeometry relative="1" x="-0.1214" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;div&gt;Reverse into the Noir Universe. (!?)&lt;/div&gt;&lt;div&gt;(CXUKjHzoMl4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="721" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;The... the wormhole calls you? and tommy guns you into the Narration Universe, where you meet wug..?? ...timeline accelleration.&lt;/div&gt;&lt;div&gt;(wfdMicitgnA)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="300" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-58" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-59" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" value="Step In the Wormhole" vertex="1">
+          <mxGeometry relative="1" x="-0.0222" as="geometry">
+            <mxPoint x="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;The Captain Self Destructs, into the ... void. With Space Gramma. ???&lt;/div&gt;&lt;div&gt;(FuQt2BhgCQo)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="340" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-50" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" target="rSQUNBJX4ENh_2QMai6t-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-51" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Plan K" vertex="1">
+          <mxGeometry relative="1" x="-0.0856" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-53" edge="1" parent="1" source="rSQUNBJX4ENh_2QMai6t-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rSQUNBJX4ENh_2QMai6t-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1017.4200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-54" connectable="0" parent="rSQUNBJX4ENh_2QMai6t-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Well Now I&#39;m Not Doing It!" vertex="1">
+          <mxGeometry relative="1" x="-0.0486" y="-1" as="geometry">
+            <mxPoint x="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-55" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="&lt;div&gt;Ending:&lt;br&gt;The Funny Choices&lt;/div&gt;&lt;div&gt;(eoOePnBbGWY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="260" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="rSQUNBJX4ENh_2QMai6t-57" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="&lt;div&gt;Ending:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(eoOePnBbGWY)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="440" y="1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
